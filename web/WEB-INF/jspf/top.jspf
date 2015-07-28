@@ -89,6 +89,7 @@
           <label for="email">Email</label>
         </div>
       </div>
+        <input type="date" class="datepicker">
     </form>
   </div>       
     
